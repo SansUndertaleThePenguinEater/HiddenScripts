@@ -1,4 +1,5 @@
-if _G.WhitelistKey == "SjAJJufu2813Xuawjiq8193912uAJSDIkakawa*1238sajsDJAuwASkdknaHWAFJNWsd" then
+if _G.WhitelistKey == "sAJWsAMEkakaNWwuuwkLAJi2713jJAks1jdajxXxjalSUAsjjajASUasnjdnaiufAIUSHFSIU" then
+print("Thank you for joining our discord and using this script! leave a like for more amazing scripts.")
 function reweld(p2, p3)
 	local v27 = p2:GetChildren();
 	local v28 = #v27;
